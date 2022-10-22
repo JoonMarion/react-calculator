@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const ButtonContainer = styled.button`
+    height: 90px;
     padding: 20px;
     color: white;
 
