@@ -1,4 +1,4 @@
 # Calculator React.js
 
 - Acessível em:
-(`https://reactcalculatorjs.netlify.app/`)
+`https://reactcalculatorjs.netlify.app/`
